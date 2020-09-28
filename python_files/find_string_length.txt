@@ -1,0 +1,3 @@
+string_length.py contains code to find number of characters in a string or text.
+It contains small errors mentioned in the file with comment "#"
+To run the file open cmd in the folder containing the file and type "python string_length.py" without quote
